@@ -63,7 +63,10 @@ final class GitHubUpdates {
 				'1x'  => plugins_url( 'assets/artwork/icon-128x128.png', DDW_TWC_FILE ),
 				'2x'  => plugins_url( 'assets/artwork/icon-256x256.png', DDW_TWC_FILE ),
 			),
-
+			'banners' => array(
+				'low'  => plugins_url( 'assets/artwork/banner-' . $language . '772x250.png', DDW_TWC_FILE ),
+				'high' => plugins_url( 'assets/artwork/banner-' . $language . '1544x500.png', DDW_TWC_FILE ),
+			),
 		);
 	}
 

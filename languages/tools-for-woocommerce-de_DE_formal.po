@@ -1,0 +1,1070 @@
+msgid ""
+msgstr "Project-Id-Version: Tools for WooCommerce 0.3.0\nLanguage: de_DE_formal\nPO-Revision-Date: 2026-11-10 23:00+0100\nLast-Translator: David Decker – DECKERWEB\nLanguage-Team: German\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "A calmer WooCommerce workspace, with optional free physical orders, downloads and granular settings."
+msgstr "Eine ruhigere WooCommerce-Oberfläche mit optionalen kostenlosen physischen Bestellungen, Downloads und einzelnen Einstellungen."
+
+msgid "A minimum must not exceed its maximum. Your previous settings were kept."
+msgstr "Ein Mindestwert darf seinen Höchstwert nicht überschreiten. Die bisherigen Einstellungen bleiben erhalten."
+
+msgid "Admin name"
+msgstr "Name im Admin"
+
+msgid "Advertising and distractions"
+msgstr "Werbung und Ablenkung"
+
+msgid "An order must contain at least one item."
+msgstr "Eine Bestellung muss mindestens einen Artikel enthalten."
+
+msgid "Apply preset and save"
+msgstr "Voreinstellung anwenden und speichern"
+
+msgid "Archive verification"
+msgstr "Archivprüfung"
+
+msgid "Before the first order"
+msgstr "Vor der ersten Bestellung"
+
+msgid "Cart"
+msgstr "Warenkorb"
+
+msgid "Cart Rules"
+msgstr "Warenkorb-Regeln"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "Catalog approval"
+msgstr "Katalogfreigabe"
+
+msgid "Catalog diagnostics require a public catalog provider."
+msgstr "Die Katalogdiagnose benötigt einen öffentlichen Kataloganbieter."
+
+msgid "Catalog explanation (optional)"
+msgstr "Kataloghinweis (optional)"
+
+msgid "Catalog mode"
+msgstr "Katalogbetrieb"
+
+msgid "Changelog"
+msgstr "Änderungsverlauf"
+
+msgid "Check shipping:"
+msgstr "Versand prüfen:"
+
+msgid "Checkout"
+msgstr "Kasse"
+
+msgid "Checksum verification"
+msgstr "Prüfsummenprüfung"
+
+msgid "Choose at least %d units of each selected product or variation."
+msgstr "Wählen Sie mindestens %d Stück je ausgewähltem Produkt oder Variante."
+
+msgid "Choose no more than %d units of each product or variation."
+msgstr "Wählen Sie höchstens %d Stück je Produkt oder Variante."
+
+msgid "Choose product quantities in multiples of %d."
+msgstr "Wählen Sie Produktmengen als Vielfache von %d."
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Contact address"
+msgstr "Kontaktadresse"
+
+msgid "Contact link label (optional)"
+msgstr "Beschriftung des Kontaktlinks (optional)"
+
+msgid "Could not access the update filesystem."
+msgstr "Auf das Dateisystem für das Update konnte nicht zugegriffen werden."
+
+msgid "Could not create the update download file."
+msgstr "Die Datei für den Update-Download konnte nicht erstellt werden."
+
+msgid "Could not prepare the GitHub release package."
+msgstr "Das GitHub-Release-Paket konnte nicht vorbereitet werden."
+
+msgid "Could not save the email design."
+msgstr "Das E-Mail-Design konnte nicht gespeichert werden."
+
+msgid "Data retention"
+msgstr "Datenaufbewahrung"
+
+msgid "Deactivate the previous cleanup snippet or plugin before using Tools for WooCommerce. Store functions are paused while the previous implementation is active."
+msgstr "Deaktivieren Sie das bisherige Bereinigungs-Snippet oder -Plugin vor dem Einsatz von Tools for WooCommerce. Die Shop-Funktionen pausieren, solange die bisherige Umsetzung aktiv ist."
+
+msgid "Delete this plugin’s website settings on uninstall (products and orders are always kept)"
+msgstr "Die Website-Einstellungen dieses Plugins bei der Deinstallation löschen (Produkte und Bestellungen bleiben immer erhalten)"
+
+msgid "Delivery address"
+msgstr "Lieferadresse"
+
+msgid "Disc"
+msgstr "Datenträger"
+
+msgid "Dismiss this notice"
+msgstr "Diesen Hinweis ausblenden"
+
+msgid "Display locations"
+msgstr "Anzeigepositionen"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Donate"
+msgstr "Spenden"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Draft only"
+msgstr "Nur im Entwurf"
+
+msgid "Edit design"
+msgstr "Design bearbeiten"
+
+msgid "Email Designer"
+msgstr "E-Mail-Designer"
+
+msgid "Email design"
+msgstr "E-Mail-Design"
+
+msgid "Enable cart and order limits"
+msgstr "Grenzen für Warenkorb und Bestellung aktivieren"
+
+msgid "Exactly one item overrides the other quantity and value rules. Otherwise, zero means no limit. Amounts use the shop currency and product value after discounts, excluding tax, shipping and fees."
+msgstr "„Genau ein Artikel“ hat Vorrang vor allen anderen Mengen- und Wertregeln. Ansonsten bedeutet 0: keine Grenze. Beträge beziehen sich auf den Produktwert nach Rabatten in der Shop-Währung, ohne Steuern, Versand und Gebühren."
+
+msgid "Exactly one item: one product with quantity one in the entire cart and order"
+msgstr "Genau ein Artikel: insgesamt ein Produkt mit Menge 1 in Warenkorb und Bestellung"
+
+msgid "Export settings"
+msgstr "Einstellungen exportieren"
+
+msgid "Export this website’s plugin settings or paste an exported configuration to replace them. Products, orders and WooCommerce settings are not included."
+msgstr "Exportieren Sie die Plugin-Einstellungen dieser Website oder fügen Sie eine exportierte Konfiguration ein, um sie zu ersetzen. Produkte, Bestellungen und WooCommerce-Einstellungen sind nicht enthalten."
+
+msgid "Exported settings JSON"
+msgstr "Exportierte Einstellungen als JSON"
+
+msgid "External support URL (optional)"
+msgstr "Externe Unterstützungsadresse (optional)"
+
+msgid "F j, Y"
+msgstr "j. F Y"
+
+msgid "Filter marketing and survey notes from the inbox"
+msgstr "Marketing- und Umfragenotizen aus der Inbox filtern"
+
+msgid "Free downloads"
+msgstr "Kostenlose Downloads"
+
+msgid "Free modes reject nonzero product prices and order totals and offer no payment gateways. Physical mode requires shipping and an address. Download mode requires virtual, downloadable products and keeps download permissions accessible."
+msgstr "Kostenlose Betriebsarten sperren Produktpreise und Gesamtsummen ungleich null und bieten keine Zahlungsarten an. Physischer Versand benötigt Versandart und Lieferadresse. Downloads benötigen virtuelle, herunterladbare Produkte; Downloadberechtigungen bleiben erreichbar."
+
+msgid "Free offers"
+msgstr "Kostenlose Angebote"
+
+msgid "Free order. Processing means shipping is pending. Mark completed after dispatch."
+msgstr "Kostenlose Bestellung. „In Bearbeitung“ bedeutet: Versand steht noch aus. Nach dem Versand auf „Abgeschlossen“ setzen."
+
+msgid "Free orders must not contain nonzero fees."
+msgstr "Kostenlose Bestellungen dürfen keine Gebühren ungleich null enthalten."
+
+msgid "Free physical products"
+msgstr "Kostenlose physische Produkte"
+
+msgid "Free-offer variant"
+msgstr "Variante für kostenlose Angebote"
+
+msgid "Git Updater is active. If a deckerweb installation or update fails, temporarily deactivate Git Updater and retry. Reactivate it afterwards if other plugins or themes need it. Only leave it disabled when those extensions have another reliable update provider."
+msgstr "Git Updater ist aktiv. Wenn eine deckerweb-Installation oder ein Update fehlschlägt, deaktivieren Sie Git Updater vorübergehend und versuchen Sie es erneut. Aktivieren Sie ihn danach wieder, wenn andere Plugins oder Themes ihn benötigen. Lassen Sie ihn nur dauerhaft deaktiviert, wenn diese Erweiterungen einen anderen zuverlässigen Updateweg besitzen."
+
+msgid "GitHub release does not contain the plugin main file."
+msgstr "Der GitHub-Release enthält nicht die Hauptdatei des Plugins."
+
+msgid "HTTP status: %d."
+msgstr "HTTP-Status: %d."
+
+msgid "Hide customer revenue history in the order screen"
+msgstr "Kunden-Umsatzhistorie in der Bestellansicht ausblenden"
+
+msgid "Hide displayed product prices"
+msgstr "Angezeigte Produktpreise ausblenden"
+
+msgid "Hide download permissions in the order screen (except in download mode)"
+msgstr "Downloadberechtigungen in der Bestellansicht ausblenden (außer im Downloadbetrieb)"
+
+msgid "Hide onboarding task lists"
+msgstr "Einrichtungsaufgaben ausblenden"
+
+msgid "Hide order attribution in the order screen"
+msgstr "Bestellzuordnung in der Bestellansicht ausblenden"
+
+msgid "Hide payment menus and the payment settings tab"
+msgstr "Zahlungsmenüs und Tab für Zahlungseinstellungen ausblenden"
+
+msgid "Hide the WooCommerce footer review prompt"
+msgstr "WooCommerce-Bewertungsaufforderung im Footer ausblenden"
+
+msgid "Hide the core marketing entry points"
+msgstr "Core-Marketing-Einstiege ausblenden"
+
+msgid "Hide the marketplace entry points"
+msgstr "Marketplace-Einstiege ausblenden"
+
+msgid "Hiding payment screens does not disable gateways."
+msgstr "Zahlungsarten bleiben aktiv, wenn ihre Einstellungsseiten ausgeblendet werden."
+
+msgid "Import and replace settings"
+msgstr "Einstellungen importieren und ersetzen"
+
+msgid "Inquiry or contact URL (optional)"
+msgstr "Anfrage- oder Kontaktadresse (optional)"
+
+msgid "Invalid GitHub repository URL."
+msgstr "Ungültige GitHub-Repository-URL."
+
+msgid "Invalid authentication provider."
+msgstr "Ungültiger Authentifizierungsanbieter."
+
+msgid "Invalid email preview request."
+msgstr "Die Vorschauanfrage ist ungültig."
+
+msgid "Invalid or oversized email design."
+msgstr "Das E-Mail-Design ist ungültig oder zu groß."
+
+msgid "Invalid package cleanup provider."
+msgstr "Ungültiger Anbieter für die Paketbereinigung."
+
+msgid "Invalid private download limits."
+msgstr "Ungültige Grenzen für private Downloads."
+
+msgid "Invalid settings section."
+msgstr "Ungültiger Einstellungsbereich."
+
+msgid "Keep original"
+msgstr "Original beibehalten"
+
+msgid "More clarity in your shop."
+msgstr "Mehr Klarheit im Shop-Alltag."
+
+msgid "Manage installed plugins"
+msgstr "Installierte Plugins verwalten"
+
+msgid "Manage sending, recipients and format here. WooCommerce design and text settings are kept for emails that use the native layout and are restored to use when Tools for WooCommerce is disabled."
+msgstr "Hier werden Versand, Empfänger und Format verwaltet. WooCommerce-Design und -Texte bleiben gespeichert. Für native Mails und nach Deaktivierung von Tools for WooCommerce gelten diese Werte."
+
+msgid "Management"
+msgstr "Verwaltung"
+
+msgid "Maximum product value"
+msgstr "Maximaler Produktwert"
+
+msgid "Maximum quantity per product or variation"
+msgstr "Höchstmenge je Produkt oder Variante"
+
+msgid "Maximum total quantity"
+msgstr "Maximale Gesamtmenge"
+
+msgid "Menu icon"
+msgstr "Menü-Icon"
+
+msgid "Minimum product value"
+msgstr "Minimaler Produktwert"
+
+msgid "Minimum quantity per product or variation"
+msgstr "Mindestmenge je Produkt oder Variante"
+
+msgid "Minimum total quantity"
+msgstr "Minimale Gesamtmenge"
+
+msgid "Names and appearance"
+msgstr "Namen und Darstellung"
+
+msgid "Navigation"
+msgstr "Navigation"
+
+msgid "Network orders"
+msgstr "Netzwerkbestellungen"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "No delivery address saved. Check and complete the address in this order before shipping."
+msgstr "Keine Lieferadresse gespeichert. Vor dem Versand die Adresse prüfen und in dieser Bestellung ergänzen."
+
+msgid "No shipping line saved. Please check the product type and shipping configuration."
+msgstr "Keine Versandposition gespeichert. Bitte Produktart und Versandkonfiguration prüfen."
+
+msgid "No shipping method was saved. Please contact us; free shipping must be configured."
+msgstr "Es wurde keine Versandart gespeichert. Bitte kontaktieren Sie den Audiodienst; die kostenlose Versandart muss eingerichtet sein."
+
+msgid "Only one item in total can be ordered. Choose one product with quantity one."
+msgstr "Es kann insgesamt nur ein Artikel bestellt werden. Wählen Sie ein Produkt mit Menge 1."
+
+msgid "Only products with an explicit price of zero may be ordered in this mode."
+msgstr "In diesem Bestellbetrieb sind ausschließlich Produkte mit explizitem Preis 0 zulässig."
+
+msgid "Open Email Designer"
+msgstr "E-Mail-Designer öffnen"
+
+msgid "Optional information for free offers, such as support for shipping costs or a tip for downloads. No payment is collected and no fee is added to the order."
+msgstr "Optionaler Hinweis bei kostenlosen Angeboten, etwa zur Unterstützung der Versandkosten oder als Trinkgeld für Downloads. Es wird keine Zahlung eingezogen und keine Bestellgebühr hinzugefügt."
+
+msgid "Order"
+msgstr "Bestellung"
+
+msgid "Order at least %d items in total."
+msgstr "Bestellen Sie insgesamt mindestens %d Artikel."
+
+msgid "Order confirmation"
+msgstr "Bestellbestätigung"
+
+msgid "Order for free"
+msgstr "Kostenlos bestellen"
+
+msgid "Order free products"
+msgstr "Kostenlose Produkte bestellen"
+
+msgid "Order mode"
+msgstr "Bestellbetrieb"
+
+msgid "Order no more than %d items in total."
+msgstr "Bestellen Sie insgesamt höchstens %d Artikel."
+
+msgid "Order screen"
+msgstr "Bestellansicht"
+
+msgid "Orders and checkout"
+msgstr "Bestellbetrieb und Checkout"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Package download"
+msgstr "Paketdownload"
+
+msgid "Permission denied."
+msgstr "Zugriff verweigert."
+
+msgid "Physical shipping"
+msgstr "Physischer Versand"
+
+msgid "Please choose positive whole-number quantities."
+msgstr "Bitte positive, ganzzahlige Mengen wählen."
+
+msgid "Please select a valid preset and delivery variant."
+msgstr "Bitte eine gültige Voreinstellung und Auslieferungsvariante wählen."
+
+msgid "Plugin information"
+msgstr "Plugininformationen"
+
+msgid "Plugin website"
+msgstr "Plugin-Website"
+
+msgid "Presets"
+msgstr "Voreinstellungen"
+
+msgid "Prevent automatic setup-wizard redirects"
+msgstr "Automatische Weiterleitung zum Einrichtungsassistenten verhindern"
+
+msgid "Private mode must be boolean."
+msgstr "Der Private-Modus muss ein boolescher Wert sein."
+
+msgid "Product page"
+msgstr "Produktseite"
+
+msgid "Products and shipping are free. A voluntary contribution toward shipping costs is welcome."
+msgstr "Produkte und Versand sind kostenlos. Ein freiwilliger Beitrag zu den Versandkosten ist willkommen."
+
+msgid "Public catalog callbacks require both providers and cannot be used in private mode."
+msgstr "Öffentliche Katalog-Callbacks benötigen beide Anbieter und können nicht im Private-Modus verwendet werden."
+
+msgid "Quantity and order value"
+msgstr "Menge und Warenwert"
+
+msgid "Quantity increment per product or variation"
+msgstr "Mengenschritt je Produkt oder Variante"
+
+msgid "Recent reviews"
+msgstr "Neueste Bewertungen"
+
+msgid "Regular WooCommerce sales"
+msgstr "Regulärer WooCommerce-Verkauf"
+
+msgid "Remove company from the classic checkout; keep phone"
+msgstr "Firma im klassischen Checkout entfernen; Telefon erhalten"
+
+msgid "Rename core WooCommerce dashboard widgets"
+msgstr "Core-Dashboard-Widgets von WooCommerce umbenennen"
+
+msgid "Rename the main WooCommerce menu"
+msgstr "WooCommerce-Hauptmenü umbenennen"
+
+msgid "Replace WooCommerce in PHP-translated admin labels"
+msgstr "WooCommerce in PHP-übersetzten Admin-Texten ersetzen"
+
+msgid "Request free downloads"
+msgstr "Kostenlose Downloads anfordern"
+
+msgid "Restores the default cleanup switches, menu name and icon, and order screen settings."
+msgstr "Setzt die Bereinigung, den Menünamen, das Symbol und die Bestellansicht auf die Standardwerte zurück."
+
+msgid "Rule activation"
+msgstr "Regeln aktivieren"
+
+msgid "Safe package cleanup is unavailable for this update provider."
+msgstr "Für diesen Updateanbieter ist keine sichere Paketbereinigung verfügbar."
+
+msgid "See the release on GitHub."
+msgstr "Sehen Sie sich den Release auf GitHub an."
+
+msgid "Send an inquiry"
+msgstr "Anfrage senden"
+
+msgid "Set product prices to 0. For physical offers, configure a free shipping method. For downloads, mark products as virtual and downloadable and attach the files."
+msgstr "Produktpreise auf 0 setzen. Für physische Angebote eine kostenlose Versandart einrichten. Für Downloads die Produkte als virtuell und herunterladbar markieren und die Dateien hinterlegen."
+
+msgid "Sets the order mode and classic checkout options for free shipping or downloads. Your support message and its display settings are kept."
+msgstr "Stellt die Betriebsart und die klassische Kasse auf kostenlosen Versand oder Downloads ein. Unterstützungshinweis und Anzeigepositionen bleiben erhalten."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "Settings sections"
+msgstr "Einstellungsbereiche"
+
+msgid "Shipping is not configured correctly. Please contact us."
+msgstr "Der Versand ist derzeit nicht richtig eingerichtet. Bitte kontaktieren Sie den Audiodienst."
+
+msgid "Shop listing"
+msgstr "Shop-Übersicht"
+
+msgid "Show products without accepting new storefront orders. Existing orders and customer accounts stay accessible. Clear page caches after changing this mode."
+msgstr "Produkte anzeigen, ohne neue Bestellungen im Shop anzunehmen. Bestehende Bestellungen und Kundenkonten bleiben erreichbar. Nach dem Wechsel dieser Betriebsart die Seiten-Caches leeren."
+
+msgid "Show shipping checks for free physical orders in admin"
+msgstr "Versandhinweise für kostenlose physische Bestellungen im Admin anzeigen"
+
+msgid "Show voluntary support information for free offers"
+msgstr "Freiwilligen Unterstützungshinweis bei kostenlosen Angeboten anzeigen"
+
+msgid "Standard HTML templates using the published design: %s."
+msgstr "Standard-HTML-Vorlagen mit veröffentlichtem TfWC-Design: %s."
+
+msgid "Standard templates and design status"
+msgstr "Standardvorlagen und Designstatus"
+
+msgid "Store"
+msgstr "Shop"
+
+msgid "Support link label (optional)"
+msgstr "Beschriftung des Unterstützungslinks (optional)"
+
+msgid "Support message (blank uses a matching default)"
+msgstr "Unterstützungshinweis (leer verwendet einen passenden Standardtext)"
+
+msgid "Support this service"
+msgstr "Dieses Angebot unterstützen"
+
+msgid "Suppress marketplace advertising and recommendations"
+msgstr "Marketplace-Werbung und Empfehlungen unterdrücken"
+
+msgid "Suppress payment-provider recommendations"
+msgstr "Empfehlungen für Zahlungsanbieter unterdrücken"
+
+msgid "Suppress shipping-partner recommendations"
+msgstr "Empfehlungen für Versandpartner unterdrücken"
+
+msgid "TfWC design active"
+msgstr "TfWC-Design aktiv"
+
+msgid "Thank you for your order"
+msgstr "Vielen Dank für Ihre Bestellung"
+
+msgid "Thank you. Your free download order has been received. Available download links are shown in your order details."
+msgstr "Vielen Dank. Ihre kostenlose Downloadbestellung ist eingegangen. Verfügbare Downloadlinks finden Sie in Ihren Bestelldetails."
+
+msgid "Thank you. Your free order has been received. Your products will be sent to the delivery address shown in the order details."
+msgstr "Vielen Dank. Ihre kostenlose Bestellung ist eingegangen. Die Produkte werden an die in den Bestelldetails angegebene Lieferadresse versendet."
+
+msgid "The GitHub package could not be prepared. The installed version has been kept."
+msgstr "Das GitHub-Paket konnte nicht vorbereitet werden. Die installierte Version bleibt erhalten."
+
+msgid "The GitHub package does not contain the Tools for WooCommerce plugin file."
+msgstr "Das GitHub-Paket enthält die Plugin-Datei von Tools for WooCommerce nicht."
+
+msgid "The approved release changed. Refresh updates first."
+msgstr "Die freigegebene Version hat sich geändert. Suchen Sie zuerst erneut nach Updates."
+
+msgid "The approved release could not be verified."
+msgstr "Die freigegebene Version konnte nicht geprüft werden."
+
+msgid "The archive or plugin identity could not be verified. Installation was stopped."
+msgstr "Das Archiv oder die Pluginidentität konnte nicht geprüft werden. Die Installation wurde gestoppt."
+
+msgid "The delivery address is missing. Please check the address or contact us."
+msgstr "Es fehlt die Lieferadresse. Bitte prüfen Sie die Adresse oder kontaktieren Sie den Audiodienst."
+
+msgid "The maximum product value after discounts is %s, excluding tax, shipping and fees."
+msgstr "Der maximale Produktwert nach Rabatten beträgt %s, ohne Steuern, Versand und Gebühren."
+
+msgid "The minimum product value after discounts is %s, excluding tax, shipping and fees."
+msgstr "Der minimale Produktwert nach Rabatten beträgt %s, ohne Steuern, Versand und Gebühren."
+
+msgid "The order contains unexpected costs. Please contact us."
+msgstr "Die Bestellung enthält unerwartete Kosten. Bitte kontaktieren Sie den Audiodienst."
+
+msgid "The package does not match the approved checksum. Installation was stopped."
+msgstr "Das Paket entspricht nicht der freigegebenen Prüfsumme. Die Installation wurde gestoppt."
+
+msgid "The package identity or version does not match a newer Tools for WooCommerce release."
+msgstr "Paketidentität oder Version entspricht keiner neueren Purify-WooCommerce-Fassung."
+
+msgid "The package version differs from the offered update. Please check for updates again."
+msgstr "Die Paketversion weicht vom angebotenen Update ab. Bitte erneut nach Updates suchen."
+
+msgid "The plugin must be installed in a stable slug directory."
+msgstr "Das Plugin muss in einem Verzeichnis mit einem festen Slug installiert sein."
+
+msgid "The private update could not be authorized. Check the repository credentials and refresh updates."
+msgstr "Das private Update konnte nicht autorisiert werden. Prüfen Sie die Repository-Zugangsdaten und suchen Sie erneut nach Updates."
+
+msgid "The private update download failed. Check credentials and try again."
+msgstr "Der Download des privaten Updates ist fehlgeschlagen. Prüfen Sie die Zugangsdaten und versuchen Sie es erneut."
+
+msgid "The quantity increment leaves no valid quantity within these limits. Your previous settings were kept."
+msgstr "Mit diesem Mengenschritt ist innerhalb der Grenzen keine gültige Menge möglich. Die bisherigen Einstellungen bleiben erhalten."
+
+msgid "The secure connection to the update server failed."
+msgstr "Die sichere Verbindung zum Updateserver ist fehlgeschlagen."
+
+msgid "The update filesystem is unavailable. Please try again."
+msgstr "Das Update-Dateisystem ist nicht verfügbar. Bitte erneut versuchen."
+
+msgid "The update package could not be checked."
+msgstr "Das Update-Paket konnte nicht geprüft werden."
+
+msgid "The update package has missing or invalid WordPress/PHP requirements."
+msgstr "Die WordPress-/PHP-Voraussetzungen im Update-Paket fehlen oder sind ungültig."
+
+msgid "The update package identity, version or requirements could not be verified."
+msgstr "Identität, Version oder Anforderungen des Updatepakets konnten nicht bestätigt werden."
+
+msgid "The update provider did not return valid update data."
+msgstr "Der Updateanbieter hat keine gültigen Updatedaten geliefert."
+
+msgid "The update request timed out. Try again later."
+msgstr "Die Updateanfrage hat zu lange gedauert. Versuchen Sie es später erneut."
+
+msgid "The update server address could not be resolved."
+msgstr "Die Adresse des Updateservers konnte nicht aufgelöst werden."
+
+msgid "The update server could not be reached. Try again later."
+msgstr "Der Updateserver ist nicht erreichbar. Versuchen Sie es später erneut."
+
+msgid "The update server returned an unsuccessful HTTP response."
+msgstr "Der Updateserver hat eine HTTP-Fehlerantwort zurückgegeben."
+
+msgid "These downloads are free. A voluntary tip to support this service is welcome."
+msgstr "Diese Downloads sind kostenlos. Ein freiwilliges Trinkgeld zur Unterstützung des Angebots ist willkommen."
+
+msgid "This is not a supported Tools for WooCommerce settings export."
+msgstr "Dies ist kein unterstützter Einstellungsexport von Tools for WooCommerce."
+
+msgid "This mode accepts only free physical products without downloads."
+msgstr "Dieser Bestellbetrieb erlaubt nur kostenlose physische Produkte ohne Downloads."
+
+msgid "This mode accepts only free virtual downloads with configured files."
+msgstr "Dieser Bestellbetrieb erlaubt nur kostenlose virtuelle Downloads mit konfigurierten Dateien."
+
+msgid "This order contains unexpected costs. Please contact us; payment is not available here."
+msgstr "Diese Bestellung enthält unerwartete Kosten. Bitte kontaktieren Sie den Audiodienst; eine Zahlung ist hier nicht vorgesehen."
+
+msgid "This release requires a newer WordPress or PHP version. The installed version has been kept."
+msgstr "Diese Fassung benötigt neueres WordPress oder PHP. Die installierte Version bleibt erhalten."
+
+msgid "This shop is a catalog. Online orders are currently unavailable."
+msgstr "Dieser Shop dient als Katalog. Onlinebestellungen sind derzeit nicht möglich."
+
+msgid "Tidy shop"
+msgstr "Aufgeräumter Shop"
+
+msgid "Tools for WooCommerce requires active WooCommerce 11.1.2 or newer. Its shop rules are currently inactive."
+msgstr "Tools for WooCommerce benötigt aktives WooCommerce ab 11.1.2. Die Shop-Regeln sind derzeit inaktiv."
+
+msgid "Transfer settings"
+msgstr "Einstellungen übertragen"
+
+msgid "Update stopped at %1$s: %2$s"
+msgstr "Update gestoppt bei %1$s: %2$s"
+
+msgid "Update the other active deckerweb plugins to use the current shared update component and translated update messages."
+msgstr "Die anderen aktiven deckerweb-Plugins aktualisieren, um die aktuelle gemeinsame Update-Komponente und übersetzte Update-Meldungen zu verwenden."
+
+msgid "Use matching free-order texts in the classic checkout"
+msgstr "Passende Texte für kostenlose Bestellungen im klassischen Checkout verwenden"
+
+msgid "Use nonnegative limits and positive whole-number quantity increments. Your previous settings were kept."
+msgstr "Verwenden Sie nicht negative Grenzwerte und positive, ganzzahlige Mengenschritte. Die bisherigen Einstellungen bleiben erhalten."
+
+msgid "Use the shop as a presentation catalog"
+msgstr "Den Shop als Präsentationskatalog verwenden"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Voluntary support"
+msgstr "Freiwillige Unterstützung"
+
+msgid "Wait a minute before sending another test email."
+msgstr "Vor der nächsten Testmail bitte eine Minute warten."
+
+msgid "WooCommerce block email editor"
+msgstr "WooCommerce-Blockeditor für E-Mails"
+
+msgid "WooCommerce controls the fields and labels in block checkout."
+msgstr "Die Felder und Beschriftungen im Block-Checkout steuert WooCommerce."
+
+msgid "WooCommerce could not render this email preview."
+msgstr "WooCommerce konnte diese E-Mail-Vorschau nicht erstellen."
+
+msgid "WooCommerce default"
+msgstr "WooCommerce-Standard"
+
+msgid "WooCommerce defaults are in use. Publish a design to take over selected standard HTML templates."
+msgstr "WooCommerce-Standardvorlagen sind in Gebrauch. Ein veröffentlichtes Design kann ausgewählte Standard-HTML-Vorlagen übernehmen."
+
+msgid "WooCommerce format"
+msgstr "WooCommerce-Mailformat"
+
+msgid "WordPress could not hand off the test email."
+msgstr "WordPress konnte die Testmail nicht an den Mailversand übergeben."
+
+msgid "You are not allowed to change these settings."
+msgstr "Sie dürfen diese Einstellungen nicht ändern."
+
+msgid "Your contact details"
+msgstr "Ihre Kontaktdaten"
+
+msgid "Your contact details and address"
+msgstr "Ihre Kontaktdaten und Adresse"
+
+msgid "Your contact details and delivery address"
+msgstr "Ihre Kontaktdaten und Lieferadresse"
+
+msgid "Your personal data will be used to process your order and provide the downloads. Further information is available in our [privacy_policy]."
+msgstr "Ihre personenbezogenen Daten werden zur Bearbeitung Ihrer Bestellung und zur Bereitstellung der Downloads verwendet. Weitere Informationen finden Sie in unserer [privacy_policy]."
+
+msgid "Your personal data will be used to process your order and ship your products. Further information is available in our [privacy_policy]."
+msgstr "Ihre personenbezogenen Daten werden zur Bearbeitung Ihrer Bestellung und zum Versand der Produkte verwendet. Weitere Informationen finden Sie in unserer [privacy_policy]."
+
+msgid "places the support message in a custom layout or a Shortcode block."
+msgstr "platziert den Unterstützungshinweis in einem eigenen Layout oder einem Shortcode-Block."
+
+msgid "places this explanation and contact link in a custom layout."
+msgstr "platziert Kataloghinweis und Kontaktlink in einem eigenen Layout."
+
+msgid "Choose which TfWC settings to export or paste a configuration to review its import. The transfer includes plugin settings only."
+msgstr "Wählen Sie den Umfang für den Export oder fügen Sie eine Konfiguration ein, um den Import zu prüfen. Die Datei enthält ausschließlich Plugin-Einstellungen."
+
+msgid "Export scope"
+msgstr "Umfang des Exports"
+
+msgid "Import scope"
+msgstr "Umfang des Imports"
+
+msgid "Use the scope in the file"
+msgstr "Umfang aus der Datei verwenden"
+
+msgid "Review import"
+msgstr "Import prüfen"
+
+msgid "Apply import"
+msgstr "Import übernehmen"
+
+msgid "All TfWC settings including Email Designer"
+msgstr "Alle TfWC-Einstellungen inklusive E-Mail-Designer"
+
+msgid "TfWC settings without Email Designer"
+msgstr "TfWC-Einstellungen ohne E-Mail-Designer"
+
+msgid "Email Designer only"
+msgstr "Nur E-Mail-Designer"
+
+msgid "The included plugin settings replace the current settings."
+msgstr "Die enthaltenen Plugin-Einstellungen ersetzen die bisherigen Einstellungen."
+
+msgid "The imported design replaces the current draft. The active email design stays in use."
+msgstr "Das importierte Design ersetzt den aktuellen Entwurf. Das aktive Versanddesign bleibt im Einsatz."
+
+msgid "Includes the source draft."
+msgstr "Enthält den Entwurf der Quellsite."
+
+msgid "Includes the source’s published version for preview."
+msgstr "Enthält den veröffentlichten Stand der Quellsite zur Vorschau."
+
+msgid "Contains fixed URLs. Check links and reselect any source-site logos in the target Media Library."
+msgstr "Enthält feste URLs. Prüfen Sie die Links und wählen Sie Logos der Quellsite bei Bedarf in der Mediathek der Zielsite neu aus."
+
+msgid "Contains tags with page IDs. Check the target pages before publishing."
+msgstr "Enthält dynamische Tags mit Seiten-IDs. Prüfen Sie die Zielseiten vor der Veröffentlichung."
+
+msgid "This file contains no saved email design."
+msgstr "Diese Datei enthält kein gespeichertes E-Mail-Design."
+
+msgid "The file does not contain the selected settings."
+msgstr "Die Datei enthält die ausgewählten Einstellungen nicht."
+
+msgid "Download check"
+msgstr "Download-Prüfung"
+
+msgid "WooCommerce currently blocks downloads for this order status."
+msgstr "WooCommerce sperrt Downloads beim aktuellen Bestellstatus."
+
+msgid "WooCommerce download settings"
+msgstr "WooCommerce-Download-Einstellungen"
+
+msgid "Open order actions to regenerate permissions or resend order details"
+msgstr "Bestellaktionen öffnen, um Rechte neu zu vergeben oder Bestelldetails erneut zu senden"
+
+msgid "The product has no configured download files."
+msgstr "Für das Produkt sind keine Download-Dateien hinterlegt."
+
+msgid "Download file missing."
+msgstr "Die Download-Datei fehlt."
+
+msgid "File reference configured. Reachability has not been checked."
+msgstr "Dateiverweis hinterlegt. Die Erreichbarkeit wurde nicht geprüft."
+
+msgid "Permission refers to a different order key."
+msgstr "Die Berechtigung verweist auf einen anderen Bestellschlüssel."
+
+msgid "Permission email differs from the order email."
+msgstr "Die E-Mail-Adresse der Berechtigung weicht von der Bestelladresse ab."
+
+msgid "Permission expired."
+msgstr "Die Berechtigung ist abgelaufen."
+
+msgid "Download limit reached."
+msgstr "Das Downloadlimit ist erreicht."
+
+msgid "No permission for this file."
+msgstr "Für diese Datei fehlt die Berechtigung."
+
+msgid "File and permission configured."
+msgstr "Datei und Berechtigung sind hinterlegt."
+
+msgid "Some permissions refer to files no longer assigned to this product."
+msgstr "Einige Berechtigungen verweisen auf Dateien, die dem Produkt nicht mehr zugeordnet sind."
+
+msgid "This product is not currently available for the selected quantity."
+msgstr "Das Produkt ist aktuell nicht in der gewählten Menge verfügbar."
+
+msgid "WooCommerce limits this product to one unit."
+msgstr "WooCommerce begrenzt dieses Produkt auf ein Exemplar."
+
+msgid "Check free offers"
+msgstr "Kostenlose Angebote prüfen"
+
+msgid "Checks each selected product or variation as the only item in an order, using saved settings. Shipping, discounts and checkout extensions are evaluated in a real checkout."
+msgstr "Die Prüfung behandelt jedes gewählte Produkt oder jede Variante als einzige Position und verwendet die gespeicherten Einstellungen. Versand, Rabatte und Checkout-Erweiterungen werden im echten Checkout geprüft."
+
+msgid "Products or variations (up to 20)"
+msgstr "Produkte oder Varianten (bis zu 20)"
+
+msgid "Search by product name or SKU"
+msgstr "Nach Produktname oder Artikelnummer suchen"
+
+msgid "Quantity to check"
+msgstr "Menge für die Prüfung"
+
+msgid "Check products"
+msgstr "Produkte prüfen"
+
+msgid "Passes the product and quantity checks."
+msgstr "Produkt und Menge bestehen die Prüfung."
+
+msgid "Print packing list"
+msgstr "Packliste drucken"
+
+msgid "Select at most 100 orders per packing list."
+msgstr "Wählen Sie pro Packliste höchstens 100 Bestellungen aus."
+
+msgid "Packing list"
+msgstr "Packliste"
+
+msgid "Print this page using your browser. Only shippable items with remaining quantities are included. Cancelled, failed, refunded and draft orders are skipped."
+msgstr "Drucken Sie diese Seite über Ihren Browser. Die Liste enthält versendbare Artikel mit verbleibender Menge. Stornierte, fehlgeschlagene und erstattete Bestellungen sowie Entwürfe werden übersprungen."
+
+msgid "No shippable items in the selected orders."
+msgstr "Die ausgewählten Bestellungen enthalten keine versendbaren Artikel."
+
+msgid "Include product details in the inquiry link"
+msgstr "Produktdaten im Anfragelink mitgeben"
+
+msgid "Product links pass tfwc_product, tfwc_sku and tfwc_product_url to your contact form. Email links include the details in the message."
+msgstr "Produktlinks übergeben tfwc_product, tfwc_sku und tfwc_product_url an Ihr Kontaktformular. Bei E-Mail-Links stehen die Daten im Nachrichtentext."
+
+msgid "Completed order email"
+msgstr "E-Mail bei Bestellabschluss"
+
+msgid "Include a voluntary support message in eligible completion emails"
+msgstr "Hinweis auf freiwillige Unterstützung in passenden Abschlussmails anzeigen"
+
+msgid "Email message for physical orders"
+msgstr "E-Mail-Hinweis für physische Bestellungen"
+
+msgid "Email message for downloads"
+msgstr "E-Mail-Hinweis für Downloads"
+
+msgid "Leave the email message blank to use the general support message or the default for the order type."
+msgstr "Lassen Sie den E-Mail-Hinweis leer, um den allgemeinen Hinweis oder den Standardtext für den Bestelltyp zu verwenden."
+
+msgid "Select a specific variation to check its price, stock and download settings."
+msgstr "Wählen Sie eine konkrete Variante, um Preis, Bestand und Download-Einstellungen zu prüfen."
+
+msgid "Product"
+msgstr "Produkt"
+
+msgid "SKU"
+msgstr "Artikelnummer"
+
+msgid "Quantity"
+msgstr "Menge"
+
+msgid "Downloadable product permissions"
+msgstr "Berechtigungen für herunterladbare Produkte"
+
+msgid "%s Management"
+msgstr "%s-Verwaltung"
+
+msgid "Split the WooCommerce menu into shop and management"
+msgstr "WooCommerce-Menü in Shop und Verwaltung aufteilen"
+
+msgid "Find orders, customers, products and the analytics overview in the main menu. Settings, tools and other add-ons move to the management menu."
+msgstr "Bestellungen, Kunden, Produkte und die Analyseübersicht stehen im Hauptmenü. Einstellungen, Werkzeuge und weitere Erweiterungen finden sich unter Verwaltung."
+
+msgid "Design standard WooCommerce emails, preview them live and send a test email."
+msgstr "WooCommerce-Standardmails gestalten, live ansehen und per Testmail prüfen."
+
+msgid "Open Designer"
+msgstr "Designer öffnen"
+
+msgid "Tested with WooCommerce 11.1.2 through 11.3.x."
+msgstr "Geprüft mit WooCommerce 11.1.2 bis 11.3.x."
+
+msgid "Shop settings"
+msgstr "Shop-Einstellungen"
+
+msgid "Classic reports"
+msgstr "Klassische Berichte"
+
+msgid "Analytics settings"
+msgstr "Analyse-Einstellungen"
+
+msgid "Analytics report"
+msgstr "Analyse auswählen"
+
+msgid "Open report"
+msgstr "Öffnen"
+
+msgid "Menu split"
+msgstr "Menüaufteilung"
+
+msgid "WooCommerce connection"
+msgstr "WooCommerce-Anbindung"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Paused"
+msgstr "Pausiert"
+
+msgid "Enabled shop features"
+msgstr "Aktive Shop-Funktionen"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Design published"
+msgstr "Design veröffentlicht"
+
+msgid "No published design"
+msgstr "Kein veröffentlichtes Design"
+
+msgid "Shop settings overview"
+msgstr "Shop-Einstellungen im Überblick"
+
+msgid "Store address, selling locations and currency."
+msgstr "Shop-Adresse, Verkaufsländer und Währung."
+
+msgid "Product display, inventory and downloads."
+msgstr "Produktanzeige, Lagerbestand und Downloads."
+
+msgid "Shipping zones, methods and options."
+msgstr "Versandzonen, Versandarten und Optionen."
+
+msgid "Payment methods and providers."
+msgstr "Zahlungsarten und Zahlungsanbieter."
+
+msgid "Customer accounts, guest checkout and privacy."
+msgstr "Kundenkonten, Gastbestellungen und Datenschutz."
+
+msgid "Shop notifications, recipients and sender settings."
+msgstr "Shop-Benachrichtigungen, Empfänger und Absender."
+
+msgid "Shop pages, endpoints and technical integrations."
+msgstr "Shop-Seiten, Endpunkte und technische Schnittstellen."
+
+msgid "Show the shop settings overview in the admin menu"
+msgstr "Übersicht der Shop-Einstellungen im Admin-Menü anzeigen"
+
+msgid "Email settings"
+msgstr "E-Mail-Einstellungen"
+
+msgid "Email templates (%s)"
+msgstr "E-Mail-Vorlagen (%s)"
+
+msgid "Product taxonomies and attributes"
+msgstr "Produktkategorien, Marken und weitere Taxonomien · Attribute"
+
+msgid "Check shop pages and cache exclusions"
+msgstr "Shop-Seiten und Cache-Ausnahmen prüfen"
+
+msgid "Page missing"
+msgstr "Seite fehlt"
+
+msgid "Page is not published"
+msgstr "Seite ist nicht veröffentlicht"
+
+msgid "Published · check layout manually"
+msgstr "Veröffentlicht · Layout manuell prüfen"
+
+msgid "Published · WooCommerce block"
+msgstr "Veröffentlicht · WooCommerce-Block"
+
+msgid "Published · classic shortcode"
+msgstr "Veröffentlicht · klassischer Shortcode"
+
+msgid "Review these paths and WooCommerce requests in your cache settings. With plain permalinks, use the page URLs instead of excluding the entire site."
+msgstr "Prüfe diese Pfade und WooCommerce-Anfragen in den Cache-Einstellungen. Bei einfachen Permalinks verwende die Seiten-URLs, damit nicht die gesamte Website ausgeschlossen wird."
+
+msgid "Find the matching shipping zone"
+msgstr "Passende Versandzone ermitteln"
+
+msgid "State or region code"
+msgstr "Bundesland- oder Regionscode"
+
+msgid "Check shipping zone"
+msgstr "Versandzone prüfen"
+
+msgid "A free shipping method is configured. Its conditions still apply."
+msgstr "Eine kostenlose Versandart ist eingerichtet. Ihre Bedingungen gelten weiterhin."
+
+msgid "No enabled WooCommerce free shipping method is configured in this zone."
+msgstr "In dieser Zone ist keine kostenlose WooCommerce-Versandart aktiv."
+
+msgid "Purchase check"
+msgstr "Kaufbarkeit prüfen"
+
+msgid "Coupon check"
+msgstr "Gutscheinprüfung"
+
+msgid "No attributes are configured for variations."
+msgstr "Für Varianten sind keine Attribute eingerichtet."
+
+msgid "No variations configured."
+msgstr "Keine Varianten eingerichtet."
+
+msgid "Check status, price and stock."
+msgstr "Status, Preis und Bestand prüfen."
+
+msgid "Checked the first 50 variations."
+msgstr "Die ersten 50 Varianten wurden geprüft."
+
+msgid "Check whether the shipment is still outstanding."
+msgstr "Prüfe, ob der Versand noch aussteht."
+
+msgid "Review fulfillment and any download permissions."
+msgstr "Prüfe die Abwicklung und vorhandene Downloadberechtigungen."
+
+msgid "Review the order notes and the payment method for the next step."
+msgstr "Prüfe die Bestellnotizen und die Zahlungsart für den nächsten Schritt."
+
+msgid "Review the order notes for the status history."
+msgstr "Der bisherige Verlauf steht in den Bestellnotizen."
+
+msgid "Order status and next step"
+msgstr "Bestellstatus und nächster Schritt"
+
+msgid "Catalog mode blocks purchases."
+msgstr "Der Katalogmodus sperrt Bestellungen."
+
+msgid "This product has no price."
+msgstr "Für dieses Produkt ist kein Preis hinterlegt."
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Postcode"
+msgstr "Postleitzahl"
+
+msgid "Go straight to WooCommerce settings and shop checks."
+msgstr "Direkt zu den WooCommerce-Einstellungen und Shop-Prüfungen."
+
+msgid "Open overview"
+msgstr "Übersicht öffnen"
+
+msgid "Overview menu label"
+msgstr "Menüname für die Shop-Übersicht"
+
+msgid "Back to TfWC settings"
+msgstr "Zu den TfWC-Einstellungen"
+
+msgid "The menu, dashboard widgets and admin text use this name when their respective options are enabled."
+msgstr "Das Menü, die Dashboard-Widgets und die Admin-Texte verwenden diesen Namen, wenn die jeweilige Option aktiv ist."
+
+msgid "Could not save the shop settings."
+msgstr "Die Shop-Einstellungen konnten nicht gespeichert werden."
+
+msgid "The email design could not be imported. Check the current shop settings before retrying."
+msgstr "Das E-Mail-Design konnte nicht importiert werden. Prüfe vor einem erneuten Versuch die aktuellen Shop-Einstellungen."
+
+msgid "Email preview"
+msgstr "E-Mail-Vorschau"
+
+msgid "Use real order data in the email preview"
+msgstr "Echte Bestelldaten in der E-Mail-Vorschau verwenden"
+
+msgid "Allow external images in the email preview"
+msgstr "Externe Bilder in der E-Mail-Vorschau zulassen"
+
+msgid "Invalid preview option."
+msgstr "Ungültige Vorschauoption."
+
+msgid "You cannot access order data."
+msgstr "Du hast keinen Zugriff auf Bestelldaten."
+
+msgid "Edit page"
+msgstr "Seite bearbeiten"
+
+msgid "Shop Loop"
+msgstr "Produktliste"
+
+msgid "Product Page"
+msgstr "Produktseite"
+
+msgid "Misc"
+msgstr "Sonstiges"

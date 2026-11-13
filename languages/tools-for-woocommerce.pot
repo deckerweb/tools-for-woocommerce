@@ -1,0 +1,1072 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "A calmer WooCommerce workspace, with optional free physical orders, downloads and granular settings."
+msgstr ""
+
+msgid "A minimum must not exceed its maximum. Your previous settings were kept."
+msgstr ""
+
+msgid "Admin name"
+msgstr ""
+
+msgid "Advertising and distractions"
+msgstr ""
+
+msgid "An order must contain at least one item."
+msgstr ""
+
+msgid "Apply preset and save"
+msgstr ""
+
+msgid "Archive verification"
+msgstr ""
+
+msgid "Before the first order"
+msgstr ""
+
+msgid "Cart"
+msgstr ""
+
+msgid "Cart Rules"
+msgstr ""
+
+msgid "Catalog"
+msgstr ""
+
+msgid "Catalog approval"
+msgstr ""
+
+msgid "Catalog diagnostics require a public catalog provider."
+msgstr ""
+
+msgid "Catalog explanation (optional)"
+msgstr ""
+
+msgid "Catalog mode"
+msgstr ""
+
+msgid "Changelog"
+msgstr ""
+
+msgid "Check shipping:"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Checksum verification"
+msgstr ""
+
+msgid "Choose at least %d units of each selected product or variation."
+msgstr ""
+
+msgid "Choose no more than %d units of each product or variation."
+msgstr ""
+
+msgid "Choose product quantities in multiples of %d."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Contact address"
+msgstr ""
+
+msgid "Contact link label (optional)"
+msgstr ""
+
+msgid "Could not access the update filesystem."
+msgstr ""
+
+msgid "Could not create the update download file."
+msgstr ""
+
+msgid "Could not prepare the GitHub release package."
+msgstr ""
+
+msgid "Could not save the email design."
+msgstr ""
+
+msgid "Data retention"
+msgstr ""
+
+msgid "Deactivate the previous cleanup snippet or plugin before using Tools for WooCommerce. Store functions are paused while the previous implementation is active."
+msgstr ""
+
+msgid "Delete this plugin\u2019s website settings on uninstall (products and orders are always kept)"
+msgstr ""
+
+msgid "Delivery address"
+msgstr ""
+
+msgid "Disc"
+msgstr ""
+
+msgid "Dismiss this notice"
+msgstr ""
+
+msgid "Display locations"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Donate"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Draft only"
+msgstr ""
+
+msgid "Edit design"
+msgstr ""
+
+msgid "Email Designer"
+msgstr ""
+
+msgid "Email design"
+msgstr ""
+
+msgid "Enable cart and order limits"
+msgstr ""
+
+msgid "Exactly one item overrides the other quantity and value rules. Otherwise, zero means no limit. Amounts use the shop currency and product value after discounts, excluding tax, shipping and fees."
+msgstr ""
+
+msgid "Exactly one item: one product with quantity one in the entire cart and order"
+msgstr ""
+
+msgid "Export settings"
+msgstr ""
+
+msgid "Export this website\u2019s plugin settings or paste an exported configuration to replace them. Products, orders and WooCommerce settings are not included."
+msgstr ""
+
+msgid "Exported settings JSON"
+msgstr ""
+
+msgid "External support URL (optional)"
+msgstr ""
+
+msgid "F j, Y"
+msgstr ""
+
+msgid "Filter marketing and survey notes from the inbox"
+msgstr ""
+
+msgid "Free downloads"
+msgstr ""
+
+msgid "Free modes reject nonzero product prices and order totals and offer no payment gateways. Physical mode requires shipping and an address. Download mode requires virtual, downloadable products and keeps download permissions accessible."
+msgstr ""
+
+msgid "Free offers"
+msgstr ""
+
+msgid "Free order. Processing means shipping is pending. Mark completed after dispatch."
+msgstr ""
+
+msgid "Free orders must not contain nonzero fees."
+msgstr ""
+
+msgid "Free physical products"
+msgstr ""
+
+msgid "Free-offer variant"
+msgstr ""
+
+msgid "Git Updater is active. If a deckerweb installation or update fails, temporarily deactivate Git Updater and retry. Reactivate it afterwards if other plugins or themes need it. Only leave it disabled when those extensions have another reliable update provider."
+msgstr ""
+
+msgid "GitHub release does not contain the plugin main file."
+msgstr ""
+
+msgid "HTTP status: %d."
+msgstr ""
+
+msgid "Hide customer revenue history in the order screen"
+msgstr ""
+
+msgid "Hide displayed product prices"
+msgstr ""
+
+msgid "Hide download permissions in the order screen (except in download mode)"
+msgstr ""
+
+msgid "Hide onboarding task lists"
+msgstr ""
+
+msgid "Hide order attribution in the order screen"
+msgstr ""
+
+msgid "Hide payment menus and the payment settings tab"
+msgstr ""
+
+msgid "Hide the WooCommerce footer review prompt"
+msgstr ""
+
+msgid "Hide the core marketing entry points"
+msgstr ""
+
+msgid "Hide the marketplace entry points"
+msgstr ""
+
+msgid "Hiding payment screens does not disable gateways."
+msgstr ""
+
+msgid "Import and replace settings"
+msgstr ""
+
+msgid "Inquiry or contact URL (optional)"
+msgstr ""
+
+msgid "Invalid GitHub repository URL."
+msgstr ""
+
+msgid "Invalid authentication provider."
+msgstr ""
+
+msgid "Invalid email preview request."
+msgstr ""
+
+msgid "Invalid or oversized email design."
+msgstr ""
+
+msgid "Invalid package cleanup provider."
+msgstr ""
+
+msgid "Invalid private download limits."
+msgstr ""
+
+msgid "Invalid settings section."
+msgstr ""
+
+msgid "Keep original"
+msgstr ""
+
+msgid "More clarity in your shop."
+msgstr ""
+
+msgid "Manage installed plugins"
+msgstr ""
+
+msgid "Manage sending, recipients and format here. WooCommerce design and text settings are kept for emails that use the native layout and are restored to use when Tools for WooCommerce is disabled."
+msgstr ""
+
+msgid "Management"
+msgstr ""
+
+msgid "Maximum product value"
+msgstr ""
+
+msgid "Maximum quantity per product or variation"
+msgstr ""
+
+msgid "Maximum total quantity"
+msgstr ""
+
+msgid "Menu icon"
+msgstr ""
+
+msgid "Minimum product value"
+msgstr ""
+
+msgid "Minimum quantity per product or variation"
+msgstr ""
+
+msgid "Minimum total quantity"
+msgstr ""
+
+msgid "Names and appearance"
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "Network orders"
+msgstr ""
+
+msgid "Newsletter"
+msgstr ""
+
+msgid "No delivery address saved. Check and complete the address in this order before shipping."
+msgstr ""
+
+msgid "No shipping line saved. Please check the product type and shipping configuration."
+msgstr ""
+
+msgid "No shipping method was saved. Please contact us; free shipping must be configured."
+msgstr ""
+
+msgid "Only one item in total can be ordered. Choose one product with quantity one."
+msgstr ""
+
+msgid "Only products with an explicit price of zero may be ordered in this mode."
+msgstr ""
+
+msgid "Open Email Designer"
+msgstr ""
+
+msgid "Optional information for free offers, such as support for shipping costs or a tip for downloads. No payment is collected and no fee is added to the order."
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Order at least %d items in total."
+msgstr ""
+
+msgid "Order confirmation"
+msgstr ""
+
+msgid "Order for free"
+msgstr ""
+
+msgid "Order free products"
+msgstr ""
+
+msgid "Order mode"
+msgstr ""
+
+msgid "Order no more than %d items in total."
+msgstr ""
+
+msgid "Order screen"
+msgstr ""
+
+msgid "Orders and checkout"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Package download"
+msgstr ""
+
+msgid "Permission denied."
+msgstr ""
+
+msgid "Physical shipping"
+msgstr ""
+
+msgid "Please choose positive whole-number quantities."
+msgstr ""
+
+msgid "Please select a valid preset and delivery variant."
+msgstr ""
+
+msgid "Plugin information"
+msgstr ""
+
+msgid "Plugin website"
+msgstr ""
+
+msgid "Presets"
+msgstr ""
+
+msgid "Prevent automatic setup-wizard redirects"
+msgstr ""
+
+msgid "Private mode must be boolean."
+msgstr ""
+
+msgid "Product page"
+msgstr ""
+
+msgid "Products and shipping are free. A voluntary contribution toward shipping costs is welcome."
+msgstr ""
+
+msgid "Public catalog callbacks require both providers and cannot be used in private mode."
+msgstr ""
+
+msgid "Quantity and order value"
+msgstr ""
+
+msgid "Quantity increment per product or variation"
+msgstr ""
+
+msgid "Recent reviews"
+msgstr ""
+
+msgid "Regular WooCommerce sales"
+msgstr ""
+
+msgid "Remove company from the classic checkout; keep phone"
+msgstr ""
+
+msgid "Rename core WooCommerce dashboard widgets"
+msgstr ""
+
+msgid "Rename the main WooCommerce menu"
+msgstr ""
+
+msgid "Replace WooCommerce in PHP-translated admin labels"
+msgstr ""
+
+msgid "Request free downloads"
+msgstr ""
+
+msgid "Restores the default cleanup switches, menu name and icon, and order screen settings."
+msgstr ""
+
+msgid "Rule activation"
+msgstr ""
+
+msgid "Safe package cleanup is unavailable for this update provider."
+msgstr ""
+
+msgid "See the release on GitHub."
+msgstr ""
+
+msgid "Send an inquiry"
+msgstr ""
+
+msgid "Set product prices to 0. For physical offers, configure a free shipping method. For downloads, mark products as virtual and downloadable and attach the files."
+msgstr ""
+
+msgid "Sets the order mode and classic checkout options for free shipping or downloads. Your support message and its display settings are kept."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Settings sections"
+msgstr ""
+
+msgid "Shipping is not configured correctly. Please contact us."
+msgstr ""
+
+msgid "Shop listing"
+msgstr ""
+
+msgid "Show products without accepting new storefront orders. Existing orders and customer accounts stay accessible. Clear page caches after changing this mode."
+msgstr ""
+
+msgid "Show shipping checks for free physical orders in admin"
+msgstr ""
+
+msgid "Show voluntary support information for free offers"
+msgstr ""
+
+msgid "Standard HTML templates using the published design: %s."
+msgstr ""
+
+msgid "Standard templates and design status"
+msgstr ""
+
+msgid "Store"
+msgstr ""
+
+msgid "Support link label (optional)"
+msgstr ""
+
+msgid "Support message (blank uses a matching default)"
+msgstr ""
+
+msgid "Support this service"
+msgstr ""
+
+msgid "Suppress marketplace advertising and recommendations"
+msgstr ""
+
+msgid "Suppress payment-provider recommendations"
+msgstr ""
+
+msgid "Suppress shipping-partner recommendations"
+msgstr ""
+
+msgid "TfWC design active"
+msgstr ""
+
+msgid "Thank you for your order"
+msgstr ""
+
+msgid "Thank you. Your free download order has been received. Available download links are shown in your order details."
+msgstr ""
+
+msgid "Thank you. Your free order has been received. Your products will be sent to the delivery address shown in the order details."
+msgstr ""
+
+msgid "The GitHub package could not be prepared. The installed version has been kept."
+msgstr ""
+
+msgid "The GitHub package does not contain the Tools for WooCommerce plugin file."
+msgstr ""
+
+msgid "The approved release changed. Refresh updates first."
+msgstr ""
+
+msgid "The approved release could not be verified."
+msgstr ""
+
+msgid "The archive or plugin identity could not be verified. Installation was stopped."
+msgstr ""
+
+msgid "The delivery address is missing. Please check the address or contact us."
+msgstr ""
+
+msgid "The maximum product value after discounts is %s, excluding tax, shipping and fees."
+msgstr ""
+
+msgid "The minimum product value after discounts is %s, excluding tax, shipping and fees."
+msgstr ""
+
+msgid "The order contains unexpected costs. Please contact us."
+msgstr ""
+
+msgid "The package does not match the approved checksum. Installation was stopped."
+msgstr ""
+
+msgid "The package identity or version does not match a newer Tools for WooCommerce release."
+msgstr ""
+
+msgid "The package version differs from the offered update. Please check for updates again."
+msgstr ""
+
+msgid "The plugin must be installed in a stable slug directory."
+msgstr ""
+
+msgid "The private update could not be authorized. Check the repository credentials and refresh updates."
+msgstr ""
+
+msgid "The private update download failed. Check credentials and try again."
+msgstr ""
+
+msgid "The quantity increment leaves no valid quantity within these limits. Your previous settings were kept."
+msgstr ""
+
+msgid "The secure connection to the update server failed."
+msgstr ""
+
+msgid "The update filesystem is unavailable. Please try again."
+msgstr ""
+
+msgid "The update package could not be checked."
+msgstr ""
+
+msgid "The update package has missing or invalid WordPress/PHP requirements."
+msgstr ""
+
+msgid "The update package identity, version or requirements could not be verified."
+msgstr ""
+
+msgid "The update provider did not return valid update data."
+msgstr ""
+
+msgid "The update request timed out. Try again later."
+msgstr ""
+
+msgid "The update server address could not be resolved."
+msgstr ""
+
+msgid "The update server could not be reached. Try again later."
+msgstr ""
+
+msgid "The update server returned an unsuccessful HTTP response."
+msgstr ""
+
+msgid "These downloads are free. A voluntary tip to support this service is welcome."
+msgstr ""
+
+msgid "This WooCommerce version is outside the audited 11.1.x\u201311.2.x range. Verify checkout and admin routes on staging."
+msgstr ""
+
+msgid "This is not a supported Tools for WooCommerce settings export."
+msgstr ""
+
+msgid "This mode accepts only free physical products without downloads."
+msgstr ""
+
+msgid "This mode accepts only free virtual downloads with configured files."
+msgstr ""
+
+msgid "This order contains unexpected costs. Please contact us; payment is not available here."
+msgstr ""
+
+msgid "This release requires a newer WordPress or PHP version. The installed version has been kept."
+msgstr ""
+
+msgid "This shop is a catalog. Online orders are currently unavailable."
+msgstr ""
+
+msgid "Tidy shop"
+msgstr ""
+
+msgid "Tools for WooCommerce requires active WooCommerce 11.1.2 or newer. Its shop rules are currently inactive."
+msgstr ""
+
+msgid "Transfer settings"
+msgstr ""
+
+msgid "Update stopped at %1$s: %2$s"
+msgstr ""
+
+msgid "Update the other active deckerweb plugins to use the current shared update component and translated update messages."
+msgstr ""
+
+msgid "Use matching free-order texts in the classic checkout"
+msgstr ""
+
+msgid "Use nonnegative limits and positive whole-number quantity increments. Your previous settings were kept."
+msgstr ""
+
+msgid "Use the shop as a presentation catalog"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Voluntary support"
+msgstr ""
+
+msgid "Wait a minute before sending another test email."
+msgstr ""
+
+msgid "WooCommerce block email editor"
+msgstr ""
+
+msgid "WooCommerce controls the fields and labels in block checkout."
+msgstr ""
+
+msgid "WooCommerce could not render this email preview."
+msgstr ""
+
+msgid "WooCommerce default"
+msgstr ""
+
+msgid "WooCommerce defaults are in use. Publish a design to take over selected standard HTML templates."
+msgstr ""
+
+msgid "WooCommerce format"
+msgstr ""
+
+msgid "WordPress could not hand off the test email."
+msgstr ""
+
+msgid "You are not allowed to change these settings."
+msgstr ""
+
+msgid "Your contact details"
+msgstr ""
+
+msgid "Your contact details and address"
+msgstr ""
+
+msgid "Your contact details and delivery address"
+msgstr ""
+
+msgid "Your personal data will be used to process your order and provide the downloads. Further information is available in our [privacy_policy]."
+msgstr ""
+
+msgid "Your personal data will be used to process your order and ship your products. Further information is available in our [privacy_policy]."
+msgstr ""
+
+msgid "places the support message in a custom layout or a Shortcode block."
+msgstr ""
+
+msgid "places this explanation and contact link in a custom layout."
+msgstr ""
+msgid "Choose which TfWC settings to export or paste a configuration to review its import. The transfer includes plugin settings only."
+msgstr ""
+
+msgid "Export scope"
+msgstr ""
+
+msgid "Import scope"
+msgstr ""
+
+msgid "Use the scope in the file"
+msgstr ""
+
+msgid "Review import"
+msgstr ""
+
+msgid "Apply import"
+msgstr ""
+
+msgid "All TfWC settings including Email Designer"
+msgstr ""
+
+msgid "TfWC settings without Email Designer"
+msgstr ""
+
+msgid "Email Designer only"
+msgstr ""
+
+msgid "The included plugin settings replace the current settings."
+msgstr ""
+
+msgid "The imported design replaces the current draft. The active email design stays in use."
+msgstr ""
+
+msgid "Includes the source draft."
+msgstr ""
+
+msgid "Includes the source’s published version for preview."
+msgstr ""
+
+msgid "Contains fixed URLs. Check links and reselect any source-site logos in the target Media Library."
+msgstr ""
+
+msgid "Contains tags with page IDs. Check the target pages before publishing."
+msgstr ""
+
+msgid "This file contains no saved email design."
+msgstr ""
+
+msgid "The file does not contain the selected settings."
+msgstr ""
+
+msgid "Download check"
+msgstr ""
+
+msgid "WooCommerce currently blocks downloads for this order status."
+msgstr ""
+
+msgid "WooCommerce download settings"
+msgstr ""
+
+msgid "Open order actions to regenerate permissions or resend order details"
+msgstr ""
+
+msgid "The product has no configured download files."
+msgstr ""
+
+msgid "Download file missing."
+msgstr ""
+
+msgid "File reference configured. Reachability has not been checked."
+msgstr ""
+
+msgid "Permission refers to a different order key."
+msgstr ""
+
+msgid "Permission email differs from the order email."
+msgstr ""
+
+msgid "Permission expired."
+msgstr ""
+
+msgid "Download limit reached."
+msgstr ""
+
+msgid "No permission for this file."
+msgstr ""
+
+msgid "File and permission configured."
+msgstr ""
+
+msgid "Some permissions refer to files no longer assigned to this product."
+msgstr ""
+
+msgid "This product is not currently available for the selected quantity."
+msgstr ""
+
+msgid "WooCommerce limits this product to one unit."
+msgstr ""
+
+msgid "Check free offers"
+msgstr ""
+
+msgid "Checks each selected product or variation as the only item in an order, using saved settings. Shipping, discounts and checkout extensions are evaluated in a real checkout."
+msgstr ""
+
+msgid "Products or variations (up to 20)"
+msgstr ""
+
+msgid "Search by product name or SKU"
+msgstr ""
+
+msgid "Quantity to check"
+msgstr ""
+
+msgid "Check products"
+msgstr ""
+
+msgid "Passes the product and quantity checks."
+msgstr ""
+
+msgid "Print packing list"
+msgstr ""
+
+msgid "Select at most 100 orders per packing list."
+msgstr ""
+
+msgid "Packing list"
+msgstr ""
+
+msgid "Print this page using your browser. Only shippable items with remaining quantities are included. Cancelled, failed, refunded and draft orders are skipped."
+msgstr ""
+
+msgid "No shippable items in the selected orders."
+msgstr ""
+
+msgid "Include product details in the inquiry link"
+msgstr ""
+
+msgid "Product links pass tfwc_product, tfwc_sku and tfwc_product_url to your contact form. Email links include the details in the message."
+msgstr ""
+
+msgid "Completed order email"
+msgstr ""
+
+msgid "Include a voluntary support message in eligible completion emails"
+msgstr ""
+
+msgid "Email message for physical orders"
+msgstr ""
+
+msgid "Email message for downloads"
+msgstr ""
+
+msgid "Leave the email message blank to use the general support message or the default for the order type."
+msgstr ""
+
+msgid "Select a specific variation to check its price, stock and download settings."
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Downloadable product permissions"
+msgstr ""
+
+msgid "%s Management"
+msgstr ""
+
+msgid "Split the WooCommerce menu into shop and management"
+msgstr ""
+
+msgid "Find orders, customers, products and the analytics overview in the main menu. Settings, tools and other add-ons move to the management menu."
+msgstr ""
+
+msgid "Design standard WooCommerce emails, preview them live and send a test email."
+msgstr ""
+
+msgid "Open Designer"
+msgstr ""
+
+msgid "Tested with WooCommerce 11.1.2 through 11.3.x."
+msgstr ""
+
+msgid "Shop settings"
+msgstr ""
+
+msgid "Classic reports"
+msgstr ""
+
+msgid "Analytics settings"
+msgstr ""
+
+msgid "Analytics report"
+msgstr ""
+
+msgid "Open report"
+msgstr ""
+
+msgid "Menu split"
+msgstr ""
+
+msgid "WooCommerce connection"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Enabled shop features"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Design published"
+msgstr ""
+
+msgid "No published design"
+msgstr ""
+
+msgid "Shop settings overview"
+msgstr ""
+
+msgid "Store address, selling locations and currency."
+msgstr ""
+
+msgid "Product display, inventory and downloads."
+msgstr ""
+
+msgid "Shipping zones, methods and options."
+msgstr ""
+
+msgid "Payment methods and providers."
+msgstr ""
+
+msgid "Customer accounts, guest checkout and privacy."
+msgstr ""
+
+msgid "Shop notifications, recipients and sender settings."
+msgstr ""
+
+msgid "Shop pages, endpoints and technical integrations."
+msgstr ""
+
+msgid "Show the shop settings overview in the admin menu"
+msgstr ""
+
+msgid "Email settings"
+msgstr ""
+
+msgid "Email templates (%s)"
+msgstr ""
+
+msgid "Product taxonomies and attributes"
+msgstr ""
+
+msgid "Check shop pages and cache exclusions"
+msgstr ""
+
+msgid "Page missing"
+msgstr ""
+
+msgid "Page is not published"
+msgstr ""
+
+msgid "Published · check layout manually"
+msgstr ""
+
+msgid "Published · WooCommerce block"
+msgstr ""
+
+msgid "Published · classic shortcode"
+msgstr ""
+
+msgid "Review these paths and WooCommerce requests in your cache settings. With plain permalinks, use the page URLs instead of excluding the entire site."
+msgstr ""
+
+msgid "Find the matching shipping zone"
+msgstr ""
+
+msgid "State or region code"
+msgstr ""
+
+msgid "Check shipping zone"
+msgstr ""
+
+msgid "A free shipping method is configured. Its conditions still apply."
+msgstr ""
+
+msgid "No enabled WooCommerce free shipping method is configured in this zone."
+msgstr ""
+
+msgid "Purchase check"
+msgstr ""
+
+msgid "Coupon check"
+msgstr ""
+
+msgid "No attributes are configured for variations."
+msgstr ""
+
+msgid "No variations configured."
+msgstr ""
+
+msgid "Check status, price and stock."
+msgstr ""
+
+msgid "Checked the first 50 variations."
+msgstr ""
+
+msgid "Check whether the shipment is still outstanding."
+msgstr ""
+
+msgid "Review fulfillment and any download permissions."
+msgstr ""
+
+msgid "Review the order notes and the payment method for the next step."
+msgstr ""
+
+msgid "Review the order notes for the status history."
+msgstr ""
+
+msgid "Order status and next step"
+msgstr ""
+
+msgid "Catalog mode blocks purchases."
+msgstr ""
+
+msgid "This product has no price."
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Postcode"
+msgstr ""
+
+msgid "Go straight to WooCommerce settings and shop checks."
+msgstr ""
+
+msgid "Open overview"
+msgstr ""
+
+msgid "Overview menu label"
+msgstr ""
+
+msgid "Back to TfWC settings"
+msgstr ""
+
+msgid "The menu, dashboard widgets and admin text use this name when their respective options are enabled."
+msgstr ""
+
+msgid "Could not save the shop settings."
+msgstr ""
+
+msgid "The email design could not be imported. Check the current shop settings before retrying."
+msgstr ""
+
+msgid "Email preview"
+msgstr ""
+
+msgid "Use real order data in the email preview"
+msgstr ""
+
+msgid "Allow external images in the email preview"
+msgstr ""
+
+msgid "Invalid preview option."
+msgstr ""
+
+msgid "You cannot access order data."
+msgstr ""
+
+msgid "Edit page"
+msgstr ""
+
+msgid "Shop Loop"
+msgstr ""
+
+msgid "Product Page"
+msgstr ""
+
+msgid "Misc"
+msgstr ""

@@ -1,0 +1,11 @@
+body { color: #1d2327; font: 16px/1.5 system-ui, sans-serif; margin: 0; }
+main { max-width: 48rem; margin: 2rem auto; padding: 0 1.25rem; }
+h1 { margin: 0 0 0.75rem; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border-bottom: 1px solid #a7aaad; padding: 0.55rem 0.75rem; text-align: start; overflow-wrap: anywhere; }
+th:last-child, td:last-child { text-align: end; }
+thead { background: #f0f0f1; }
+@media print {
+    main { margin: 0; max-width: none; padding: 0; }
+    tr { break-inside: avoid; }
+}

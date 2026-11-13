@@ -1,0 +1,33 @@
+== Changelog ==
+
+= 1.0.0 — 2026-11-13 =
+
+- Persistent preview options for order data and external images. Added missing German settings overview labels.
+
+- Shop settings overview with direct links, an optional menu entry, and checks for shop pages and shipping zones.
+- Email Designer with WooCommerce branding import, address verification email, and Germanized templates.
+- Purchase, coupon and order status checks, plus streamlined admin navigation.
+
+= 0.3.0 — 2026-11-10 =
+* New: Download diagnostics on orders, a free-offer check and delivery status in the Email Designer.
+* New: Optional support messages in free completion emails, product details in catalog inquiries, and printable packing lists.
+* New: Download diagnostics on orders, a free-offer check and delivery status in the Email Designer.
+* New: Optional support messages in free completion emails, product details in catalog inquiries, and printable packing lists.
+* New: Transfer all settings, general settings or the Email Designer separately. Review imports before applying them.
+* New: Bring supported cxThemes texts and branding into a draft and review individual email previews before publishing.
+* New: Catalog mode with optional hidden prices, an explanatory message and a contact link.
+* New: Cart Rules for exactly one item, minimum/maximum quantities, product values and quantity increments.
+* New: Optional voluntary support messages for free physical products and downloads.
+* New: Settings export/import and opt-in deletion of website settings.
+* Improved: Renamed to Tools for WooCommerce with a new plugin folder, textdomain and code prefixes; earlier settings remain readable.
+* Improved: Updated shared update and plugin-library components; requires PHP 8.3.
+* Fixed: Preserved regular sales by default and displayed one settings-save confirmation.
+
+= 0.2.0 — 2026-10-06 =
+* New: Tidy shop, Free offers and Individual presets, with separate physical-shipping and download variants.
+* Improved: Separate advertising, admin screens, names, icons and order boxes; preserve earlier configuration.
+* Improved: Validate free-product types, configured downloads, shipping and nonzero fees.
+
+= 0.1.0 — 2026-10-06 =
+* New: Reversible WooCommerce cleanup and guarded free physical orders.
+* New: Site settings, optional classic checkout text and shared deckerweb integrations.

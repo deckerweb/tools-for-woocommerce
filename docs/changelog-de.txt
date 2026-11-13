@@ -1,0 +1,33 @@
+== Changelog ==
+
+= 1.0.0 — 2026-11-13 =
+
+- Dauerhafte Vorschauoptionen für Bestelldaten und externe Bilder. Fehlende deutsche Beschriftungen in der Einstellungsübersicht ergänzt.
+
+- Shop-Einstellungsübersicht mit Direkteinstiegen, optionalem Menüeintrag und Prüfungen für Shop-Seiten und Versandzonen.
+- E-Mail-Designer mit WooCommerce-Branding-Übernahme, Bestätigungsmail und Germanized-Vorlagen.
+- Kaufbarkeits-, Gutschein- und Bestellstatusprüfung sowie kompaktere Admin-Navigation.
+
+= 0.3.0 — 2026-11-10 =
+* Neu: Download-Prüfung an Bestellungen, Angebotsprüfung und Versandcheck im E-Mail-Designer.
+* Neu: Optionale Unterstützungshinweise in Abschlussmails kostenloser Bestellungen, Produktdaten in Kataloganfragen und druckbare Packlisten.
+* Neu: Download-Prüfung an Bestellungen, Angebotsprüfung und Versandcheck im E-Mail-Designer.
+* Neu: Optionale Unterstützungshinweise in Abschlussmails kostenloser Bestellungen, Produktdaten in Kataloganfragen und druckbare Packlisten.
+* Neu: Alle Einstellungen, allgemeine Einstellungen oder den E-Mail-Designer separat übertragen und Importe vor dem Einspielen prüfen.
+* Neu: Unterstützte cxThemes-Texte und Branding in einen Entwurf übernehmen und E-Mail-Vorschauen vor der Veröffentlichung prüfen.
+* Neu: Katalogbetrieb mit optional ausgeblendeten Preisen, Erklärung und Kontaktlink.
+* Neu: Warenkorb-Regeln für genau einen Artikel, Mindest-/Höchstmengen, Produktwerte und Mengenschritte.
+* Neu: Optionale freiwillige Unterstützungshinweise für kostenlose physische Produkte und Downloads.
+* Neu: Export/Import der Einstellungen und wahlweises Löschen der Website-Einstellungen.
+* Verbessert: Umbenennung in Tools for WooCommerce mit neuem Pluginordner, neuer Textdomain und neuen Code-Präfixen; bisherige Einstellungen bleiben lesbar.
+* Verbessert: Gemeinsame Update- und Plugin-Library-Komponenten aktualisiert; benötigt PHP 8.3.
+* Behoben: Regulären Verkauf als Standard erhalten und Speicherbestätigung einmalig anzeigen.
+
+= 0.2.0 — 2026-10-06 =
+* Neu: Voreinstellungen Aufgeräumter Shop, Kostenlose Angebote und Individuell mit getrennten Versand- und Downloadvarianten.
+* Verbessert: Werbung, Admin-Einstiege, Namen, Icons und Bestellboxen separat steuern; alte Konfiguration erhalten.
+* Verbessert: Kostenlose Produkttypen, konfigurierte Downloads, Versand und Gebühren ungleich null prüfen.
+
+= 0.1.0 — 2026-10-06 =
+* Neu: Reversible WooCommerce-Bereinigung und geschützte kostenlose physische Bestellungen.
+* Neu: Website-Einstellungen, optionale klassische Checkout-Texte und gemeinsame deckerweb-Anbindungen.

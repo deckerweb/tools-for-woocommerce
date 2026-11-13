@@ -10,6 +10,8 @@
 
 ### Tidy shop
 
+![Tidy shop](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/tidy.png?raw=true)
+
 Reduce advertising recommendations, marketing/survey notes, onboarding tasks and review prompts individually. Defaults preserve regular purchases, gateways and admin entry points. Menu visibility is separate: hiding payment menus does not disable gateways. Customers and the shared WooCommerce app remain accessible.
 
 Under **Tidy shop → Navigation**, you can split the WooCommerce menu. Orders, customers, available payments and subscriptions, analytics and products appear in the main menu. Shop settings, classic reports and other tools appear under Management.
@@ -30,9 +32,13 @@ The WordPress command palette finds TfWC settings and the Email Designer when th
 
 ### Transfer settings
 
+![Management](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/management.png?raw=true)
+
 Under **Management → Transfer settings**, choose all TfWC settings, general settings only or Email Designer only. Paste the JSON in the destination installation and review the import. Check imported email designs in the designer before publishing them. Review logos and fixed links on the destination site. The designer offers cxThemes migration assistance when it detects a suitable source.
 
 ### Free offers
+
+![Free offers](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/offers.png?raw=true)
 
 The Free offers preset has physical-shipping and download variants. Applying it deliberately replaces all plugin switches; Individual retains saved values. The admin name is editable for a material-distribution service, for example.
 
@@ -46,9 +52,13 @@ Optionally enter donation/tip information and an external link. Classic shop, pr
 
 ### Catalog
 
+![Catalog](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/catalog.png?raw=true)
+
 Catalog mode shows products but blocks new storefront purchases, including Store API purchases and administrators. Prices can remain visible or be hidden. An optional explanation and contact link can point to an existing contact page or inquiry form. Use `[twc_catalog_notice]` for custom layouts. No new inquiry form or archive is created. Existing orders and customer accounts remain. Clear page caches after switching modes.
 
 ### Cart Rules
+
+![Cart Rules](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/rules.png?raw=true)
 
 Enable cart and order limits. For exactly one copy, also select Exactly one item. This allows one unit in total and overrides the other quantity/value rules.
 

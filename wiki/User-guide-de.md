@@ -10,6 +10,8 @@
 
 ### Aufgeräumter Shop
 
+![Aufgeräumter Shop](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/tidy.png?raw=true)
+
 Werbeempfehlungen, Marketing-/Umfragenotizen, Einrichtungsaufgaben und Bewertungsaufforderungen einzeln reduzieren. Die Standardkonfiguration erhält reguläre Käufe, Zahlungsarten und alle Admin-Einstiege. Menüausblendung ist separat: ein ausgeblendetes Zahlungsmenü schaltet keine Zahlungsart ab. Kundenverwaltung und gemeinsame WooCommerce-App bleiben verfügbar.
 
 Optional teilt **Aufgeräumter Shop → Navigation** das WooCommerce-Menü. Bestellungen, Kunden, verfügbare Zahlungen und Abonnements, Analysen und Produkte liegen im Kernmenü. Shop-Einstellungen, klassische Berichte und weitere Werkzeuge stehen unter Verwaltung.
@@ -30,9 +32,13 @@ Die WordPress-Befehlspalette findet die TfWC-Einstellungen und den E-Mail-Design
 
 ### Einstellungen übertragen
 
+![Verwaltung](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/management.png?raw=true)
+
 Unter **Verwaltung → Einstellungen übertragen** wählen, ob alle TfWC-Einstellungen, nur die allgemeinen Einstellungen oder nur der E-Mail-Designer übertragen werden. Die JSON-Datei in der Zielinstallation einfügen und die Importvorschau prüfen. Übertragene E-Mail-Designs im Designer prüfen und bei Bedarf bewusst veröffentlichen. Logos und feste Links auf der Zielwebsite kontrollieren. Die Übernahmehilfe für cxThemes steht im Designer zur Verfügung, wenn eine passende Quelle erkannt wird.
 
 ### Kostenlose Angebote
+
+![Kostenlose Angebote](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/offers.png?raw=true)
 
 Die Voreinstellung „Kostenlose Angebote“ hat die Varianten physischer Versand und Downloads. Sie setzt alle Plugin-Schalter bewusst neu; „Individuell“ erhält gespeicherte Werte. Der Admin-Name lässt sich beispielsweise an einen Materialversand anpassen.
 
@@ -46,9 +52,13 @@ Optional einen Spenden-/Trinkgeldhinweis und einen externen Link eintragen. Klas
 
 ### Katalog
 
+![Katalog](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/catalog.png?raw=true)
+
 Katalogbetrieb zeigt Produkte und sperrt neue Käufe im Shop, auch über die Store API und für Administratoren. Preise können sichtbar bleiben oder ausgeblendet werden. Eigener Erklärungstext und Kontaktlink können auf eine vorhandene Kontaktseite oder ein Anfrageformular verweisen. `[twc_catalog_notice]` ist für eigene Layouts verfügbar. Es wird kein eigenes Anfrageformular oder Anfragearchiv angelegt. Bestehende Bestellungen und Kundenkonten bleiben erhalten. Nach einem Wechsel Seiten-Caches leeren.
 
 ### Warenkorb-Regeln
+
+![Warenkorb-Regeln](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/screenshots/rules.png?raw=true)
 
 „Grenzen für Warenkorb und Bestellung aktivieren“ einschalten. Für genau ein Exemplar zusätzlich „Genau ein Artikel“ wählen. Dann ist insgesamt ein Stück zulässig; alle anderen Mengen-/Wertregeln sind nachrangig.
 

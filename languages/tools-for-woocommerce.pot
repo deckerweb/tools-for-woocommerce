@@ -1070,3 +1070,7 @@ msgstr ""
 
 msgid "Misc"
 msgstr ""
+
+#: tools-for-woocommerce.php
+msgid "A tidier shop admin, email designer, free offers, catalog mode and flexible cart rules for WooCommerce."
+msgstr ""

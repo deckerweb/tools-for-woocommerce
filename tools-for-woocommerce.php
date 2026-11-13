@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Tools for WooCommerce
  * Plugin URI: https://deckerwebplugins.com/en/plugins/tools-for-woocommerce/
- * Description: A calmer store, free offers, catalog mode and flexible cart rules for WooCommerce.
+ * Description: A tidier shop admin, email designer, free offers, catalog mode and flexible cart rules for WooCommerce.
  * Version: 1.0.0
  * Requires at least: 7.0
  * Requires PHP: 8.3

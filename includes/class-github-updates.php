@@ -17,6 +17,58 @@ final class GitHubUpdates {
 	/** Register after WordPress initializes translations. @return void */
 	public function register(): void {
 		add_action( 'init', array( $this, 'boot' ) );
+		add_filter( 'plugin_row_meta', array( $this, 'details_link' ), 10, 3 );
+		add_filter( 'plugins_api', array( $this, 'details' ), 21, 3 );
+	}
+
+	/** Use the native WordPress modal for the installed plugin. */
+	public function details_link( array $links, string $file, array $data ): array {
+		if ( plugin_basename( DDW_TWC_FILE ) !== $file || ! current_user_can( 'install_plugins' ) || isset( $data['slug'] ) ) {
+			return $links;
+		}
+
+		$url = network_admin_url( 'plugin-install.php?tab=plugin-information&plugin=tools-for-woocommerce&TB_iframe=true&width=600&height=550' );
+		$link = sprintf(
+			'<a href="%s" class="thickbox open-plugin-details-modal" aria-label="%s" data-title="Tools for WooCommerce">%s</a>',
+			esc_url( $url ),
+			esc_attr( sprintf( __( 'More information about %s' ), 'Tools for WooCommerce' ) ),
+			esc_html__( 'View details' )
+		);
+
+		if ( ! empty( $data['PluginURI'] ) ) {
+			foreach ( $links as $index => $meta ) {
+				if ( str_contains( $meta, 'href="' . esc_url( $data['PluginURI'] ) . '"' ) ) {
+					$links[ $index ] = $link;
+					return $links;
+				}
+			}
+		}
+		$links[] = $link;
+		return $links;
+	}
+
+	/** Use the bundled description and changelog, including without release metadata. */
+	public function details( $response, string $action, $args ) {
+		if ( 'plugin_information' !== $action || 'tools-for-woocommerce' !== ( $args->slug ?? '' ) ) {
+			return $response;
+		}
+
+		$headers = get_plugin_data( DDW_TWC_FILE, false );
+		$filename = str_starts_with( determine_locale(), 'de_' ) ? 'changelog-de.txt' : 'changelog.txt';
+		$changelog = file_get_contents( dirname( DDW_TWC_FILE ) . '/docs/' . $filename );
+		$info = is_object( $response ) && ! is_wp_error( $response ) ? clone $response : (object) array(
+			'name'    => $headers['Name'],
+			'slug'    => 'tools-for-woocommerce',
+			'version' => $headers['Version'],
+			'author'  => $headers['Author'],
+		);
+		$info->homepage = $headers['PluginURI'];
+		$info->banners  = $this->artwork()['banners'];
+		$info->sections = array(
+			'description' => esc_html( $headers['Description'] ),
+			'changelog'   => wpautop( nl2br( esc_html( (string) $changelog ), false ) ),
+		);
+		return $info;
 	}
 
 	/** Load the shared versioned class once, including beside other deckerweb plugins. @return void */

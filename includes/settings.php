@@ -136,7 +136,6 @@ final class DDW_TWC_Settings {
         add_action( 'admin_enqueue_scripts', array( __CLASS__, 'assets' ) );
         add_action( 'admin_notices', array( __CLASS__, 'notices' ) );
         add_filter( 'plugin_action_links_' . plugin_basename( DDW_TWC_FILE ), array( __CLASS__, 'links' ) );
-        add_filter( 'plugin_row_meta', array( __CLASS__, 'meta' ), 10, 2 );
     }
     /**
      * Register the site-local Settings API schema.
@@ -230,18 +229,6 @@ final class DDW_TWC_Settings {
         if ( current_user_can( 'manage_options' ) ) {
             array_unshift( $links, '<a href="' . esc_url( self::url() ) . '">' . esc_html__( 'Settings', 'tools-for-woocommerce' ) . '</a>' );
         }
-        return $links;
-    }
-    /**
-     * Append optional project support links to this plugin row.
-     * @param array $links Existing native plugin-row links.
-     * @param string $file Native plugin basename.
-     * @return array
-     */
-    public static function meta( $links, $file ) {
-        if ( plugin_basename( DDW_TWC_FILE ) !== $file ) { return $links; }
-        $links[] = '<a href="https://ko-fi.com/deckerweb" target="_blank" rel="noopener noreferrer">' . esc_html__( 'Donate', 'tools-for-woocommerce' ) . '</a>';
-        $links[] = '<a href="https://deckerweb.de/newsletter/" target="_blank" rel="noopener noreferrer">' . esc_html__( 'Newsletter', 'tools-for-woocommerce' ) . '</a>';
         return $links;
     }
     /**

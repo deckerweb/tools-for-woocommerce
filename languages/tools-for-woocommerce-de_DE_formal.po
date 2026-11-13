@@ -1068,3 +1068,7 @@ msgstr "Produktseite"
 
 msgid "Misc"
 msgstr "Sonstiges"
+
+#: tools-for-woocommerce.php
+msgid "A tidier shop admin, email designer, free offers, catalog mode and flexible cart rules for WooCommerce."
+msgstr "Übersichtlicher Shop-Admin, E-Mail-Designer, kostenlose Angebote, Katalogmodus und flexible Warenkorb-Regeln für WooCommerce."

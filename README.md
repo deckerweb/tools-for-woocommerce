@@ -1,3 +1,5 @@
+![Tools for WooCommerce](docs/artwork/github-banner-en-1280x640.png)
+
 # Tools for WooCommerce
 
 [Deutsch](README-de.md)
@@ -5,12 +7,6 @@
 Tools for WooCommerce adds a calmer workspace and clearly configurable store features to WooCommerce. Regular sales, free offers, a presentation catalog and order limits can be configured for each store.
 
 Version 1.0.0 · WordPress 7.0+ · PHP 8.3+ · WooCommerce 11.1.2+
-
-![Email Designer](docs/screenshots/designer.png)
-
-![Nine base styles](docs/screenshots/styles.png)
-
-![Shop settings overview](docs/screenshots/matrix.png)
 
 [At a glance](#section-0) · [Installation and first steps](#section-1) · [Features and usage](#section-2) · [Requirements and limits](#section-3) · [FAQ](#section-4) · [Changelog](#section-5) · [About the project](#section-6) · [Help and security](#section-7)
 
@@ -33,6 +29,12 @@ Version 1.0.0 · WordPress 7.0+ · PHP 8.3+ · WooCommerce 11.1.2+
 - **A checkout for free offers.** Ship materials or provide downloads at zero cost. An optional support message can link to an external page.
 - **Exactly one copy per order.** One rule limits the entire cart to one unit. Use quantity and value limits for other offers.
 - **Shorter paths in shop admin.** Reduce recommendations and optionally split the WooCommerce menu into everyday tasks and management.
+
+![Email Designer](docs/screenshots/designer.png)
+
+![Nine base styles](docs/screenshots/styles.png)
+
+![Shop settings overview](docs/screenshots/matrix.png)
 
 <a id="section-1"></a>
 

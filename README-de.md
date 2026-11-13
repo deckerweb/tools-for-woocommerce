@@ -1,3 +1,5 @@
+![Tools for WooCommerce](docs/artwork/github-banner-de-1280x640.png)
+
 # Tools for WooCommerce
 
 [English](README.md)
@@ -5,12 +7,6 @@
 Tools for WooCommerce ergänzt WooCommerce um eine ruhigere Arbeitsoberfläche und klar einstellbare Shop-Funktionen. Regulärer Verkauf, kostenlose Angebote, Präsentationskatalog und Bestellgrenzen lassen sich passend zum jeweiligen Shop konfigurieren.
 
 Version 1.0.0 · WordPress ab 7.0 · PHP ab 8.3 · WooCommerce ab 11.1.2
-
-![E-Mail-Designer](docs/screenshots/designer.png)
-
-![Neun Grundstile](docs/screenshots/styles.png)
-
-![Shop-Einstellungen im Überblick](docs/screenshots/matrix.png)
 
 [Auf einen Blick](#section-0) · [Installation und erste Schritte](#section-1) · [Funktionen und Bedienung](#section-2) · [Voraussetzungen und Grenzen](#section-3) · [FAQ](#section-4) · [Änderungsverlauf](#section-5) · [Über das Projekt](#section-6) · [Hilfe und Sicherheit](#section-7)
 
@@ -33,6 +29,12 @@ Version 1.0.0 · WordPress ab 7.0 · PHP ab 8.3 · WooCommerce ab 11.1.2
 - **Gratisangebote mit passendem Bestellablauf.** Material versenden oder Dateien bereitstellen, jeweils für 0 €. Ein freiwilliger Unterstützungshinweis kann auf ein externes Angebot verweisen.
 - **Genau ein Exemplar pro Bestellung.** Eine Regel begrenzt den gesamten Warenkorb auf ein Stück. Für andere Angebote lassen sich Mengen- und Wertgrenzen einstellen.
 - **Kürzere Wege im Shop-Admin.** Empfehlungen reduzieren und das WooCommerce-Menü auf Wunsch in Tagesgeschäft und Verwaltung aufteilen.
+
+![E-Mail-Designer](docs/screenshots/designer.png)
+
+![Neun Grundstile](docs/screenshots/styles.png)
+
+![Shop-Einstellungen im Überblick](docs/screenshots/matrix.png)
 
 <a id="section-1"></a>
 

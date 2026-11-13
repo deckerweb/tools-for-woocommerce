@@ -1,3 +1,5 @@
+![Tools for WooCommerce](https://github.com/deckerweb/tools-for-woocommerce/blob/main/docs/artwork/github-banner-de-1280x640.png?raw=true)
+
 # Startseite
 
 [English](Home)

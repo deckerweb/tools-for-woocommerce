@@ -2,6 +2,15 @@
 
 [English](Changelog)
 
+### 1.0.0 — 2026-11-13
+
+- **Neu:** Shop-Einstellungsübersicht mit Direkteinstiegen sowie Prüfungen für Shop-Seiten und Versandzonen.
+- **Neu:** E-Mail-Designer mit neun Grundstilen, Dynamic Tags und Unterstützung für Germanized-Vorlagen.
+- **Verbessert:** Kaufbarkeits-, Gutschein- und Bestellstatusprüfung sowie aufgeteilte Admin-Navigation.
+- **Verbessert:** WooCommerce-Branding in den Entwurf übernehmen und Vorschauoptionen dauerhaft speichern.
+- **Behoben:** Schreibfehler und konkurrierende Speichervorgänge werden beim Speichern und Import abgefangen.
+- **Behoben:** Fehlende deutsche Beschriftungen in der Einstellungsübersicht ergänzt.
+
 ### 0.3.0 — 2026-11-10
 - **Neu:** Katalogbetrieb mit optional ausgeblendeten Preisen, Erklärung und Kontaktlink.
 - **Neu:** Warenkorb-Regeln für genau einen Artikel, Mindest-/Höchstmengen, Produktwerte und Mengenschritte.

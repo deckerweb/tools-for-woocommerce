@@ -2,6 +2,15 @@
 
 [Deutsch](Changelog-de)
 
+### 1.0.0 — 2026-11-13
+
+- **New:** Shop settings overview with direct links and checks for shop pages and shipping zones.
+- **New:** Email Designer with nine base styles, dynamic tags and support for Germanized templates.
+- **Improved:** Purchase, coupon and order status checks, plus split admin navigation.
+- **Improved:** Import WooCommerce branding into a draft and save preview preferences persistently.
+- **Fixed:** Handle failed and overlapping writes when saving or importing settings.
+- **Fixed:** Add missing German labels to the settings overview.
+
 ### 0.3.0 — 2026-11-10
 - **New:** Catalog mode with optional hidden prices, an explanatory message and a contact link.
 - **New:** Cart Rules for exactly one item, minimum/maximum quantities, product values and quantity increments.

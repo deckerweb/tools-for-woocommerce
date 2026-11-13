@@ -2,11 +2,12 @@
 
 = 1.0.0 — 2026-11-13 =
 
-- Dauerhafte Vorschauoptionen für Bestelldaten und externe Bilder. Fehlende deutsche Beschriftungen in der Einstellungsübersicht ergänzt.
-
-- Shop-Einstellungsübersicht mit Direkteinstiegen, optionalem Menüeintrag und Prüfungen für Shop-Seiten und Versandzonen.
-- E-Mail-Designer mit WooCommerce-Branding-Übernahme, Bestätigungsmail und Germanized-Vorlagen.
-- Kaufbarkeits-, Gutschein- und Bestellstatusprüfung sowie kompaktere Admin-Navigation.
+* Neu: Shop-Einstellungsübersicht mit Direkteinstiegen sowie Prüfungen für Shop-Seiten und Versandzonen.
+* Neu: E-Mail-Designer mit neun Grundstilen, Dynamic Tags und Unterstützung für Germanized-Vorlagen.
+* Verbessert: Kaufbarkeits-, Gutschein- und Bestellstatusprüfung sowie aufgeteilte Admin-Navigation.
+* Verbessert: WooCommerce-Branding in den Entwurf übernehmen und Vorschauoptionen dauerhaft speichern.
+* Behoben: Schreibfehler und konkurrierende Speichervorgänge werden beim Speichern und Import abgefangen.
+* Behoben: Fehlende deutsche Beschriftungen in der Einstellungsübersicht ergänzt.
 
 = 0.3.0 — 2026-11-10 =
 * Neu: Download-Prüfung an Bestellungen, Angebotsprüfung und Versandcheck im E-Mail-Designer.
